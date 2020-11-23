@@ -1,0 +1,20 @@
+body {
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: black;
+    color: greenyellow;
+}
+
+button {
+    border-radius: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+footer {
+    margin-top: 10px;
+}
